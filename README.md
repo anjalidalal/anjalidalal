@@ -29,8 +29,6 @@ Here are some ideas to get you started:
    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
 <img
    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;
-<img
-   src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
 <img 
    src="https://img.shields.io/badge/C-339933?style=for-the-badge&logo=C&logoColor=white" />&nbsp;
 <img 
