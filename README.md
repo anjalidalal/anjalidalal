@@ -2,11 +2,10 @@
 
 🚀 Passionate Frontend Developer | Building Scalable & SEO-Optimized Web Apps  
 📍 Pune, India | ✉️ anjalimaria2002@gmail.com  
+ 
+### 📊 GitHub Stats  
+[![Anjali Dalal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalidalal&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 GitHub Stats  
-<a href="https://github.com/anjalidalal/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anjali Dalal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalidalal&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
 
 ---
 
