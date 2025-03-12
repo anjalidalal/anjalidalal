@@ -2,12 +2,7 @@
 
 🚀 Passionate Frontend Developer | Building Scalable & SEO-Optimized Web Apps  
 📍 Pune, India | ✉️ anjalimaria2002@gmail.com  
- 
-### 📊 GitHub Stats  
-[![Anjali Dalal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalidalal&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
 
 ## 🚀 Tech Stack & Skills  
 ### Frontend  
@@ -19,5 +14,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & APIs  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+</p>
